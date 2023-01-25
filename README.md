@@ -1,1 +1,0 @@
-# Home-Assistant-UK-TV-Guide
