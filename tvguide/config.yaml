@@ -1,7 +1,7 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: UK TV Guide
 version: "0.2"
-slug: UK TV Guide
+slug: uktvguide
 description: UK TV Guide
 url: "https://github.com/uk-james/Home-Assistant-UK-TV-Guide/tree/main/tvguide"
 arch:
