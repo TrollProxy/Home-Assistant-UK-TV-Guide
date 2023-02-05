@@ -1,9 +1,9 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
-name: Example add-on
-version: "1.2.0"
+name: UK TV Guide
+version: "0.1"
 slug: example
-description: Example add-on
-url: "https://github.com/home-assistant/addons-example/tree/main/example"
+description: Simple API for UK TV Guide
+url: "https://github.com/uk-james/Home-Assistant-UK-TV-Guide"
 arch:
   - armhf
   - armv7
