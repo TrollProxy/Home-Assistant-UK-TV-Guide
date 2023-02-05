@@ -3,7 +3,7 @@ name: UK TV Guide
 version: "0.2"
 slug: uktvguide
 description: UK TV Guide
-url: "https://github.com/uk-james/Home-Assistant-UK-TV-Guide/tree/main/tvguide"
+url: "https://github.com/uk-james/Home-Assistant-UK-TV-Guide/tree/main/uktvguide"
 arch:
   - armhf
   - armv7
